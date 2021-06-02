@@ -13,6 +13,7 @@
 - 코드스테이츠 AI부트캠프 4기(2021.05~)
 
 
+
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link={https://www.facebook.com/profile.php?id=100003668046363})]({https://www.facebook.com/profile.php?id=100003668046363}) [![Coding Blog Badge](http://img.shields.io/badge/-Blog-green?style=round-square&logo=naver&link=https://blog.naver.com/ljs7463)](https://blog.naver.com/ljs7463)
 
 
@@ -20,4 +21,4 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljs7463)](https://github.com/anuraghazra/github-readme-stats)
+![ljs7463's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljs7463&show_icons=true&theme=radical)
