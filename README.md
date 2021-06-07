@@ -1,4 +1,4 @@
-# Jeong seok 👋
+# 선한 영향력을 주는 미래의 데이터 분석가 임정석 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljs7463&count_bg=%23DD727D&title_bg=%23CD3939&icon=&icon_color=%23CF9494&title=visit&edge_flat=false)](https://hits.seeyoufarm.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link={https://www.facebook.com/profile.php?id=100003668046363})]({https://www.facebook.com/profile.php?id=100003668046363})  [![Coding Blog Badge](http://img.shields.io/badge/-StudyBlog-green?style=round-square&logo=naver&link=https://blog.naver.com/ljs7463)](https://blog.naver.com/ljs7463) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nevergiveup7463@gmail.com)
 
 ### Who Am I
