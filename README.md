@@ -17,7 +17,7 @@
 ### 👨‍💻 Plan
 SQL - 쿼리 최적화
 
-Tableau - 지표 대쉬보드 제작
+Tableau or FineReport - 지표 대쉬보드 제작(장,단점 비교후 선정하기)
 
 CRM - 고객관리 방법론
 
