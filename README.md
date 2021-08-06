@@ -14,19 +14,15 @@
 - ⚡ CPTED를 활용한 범죄예방 논문공모전 장려상 수상(2019)
 - 코드스테이츠 AI부트캠프 4기(2021.05~)
 
-### 👨‍💻 Plan
-SQL - 쿼리 최적화
-
-Tableau or FineReport - 지표 대쉬보드 제작(장,단점 비교후 선정하기)
-
-CRM - 고객관리 방법론
-
-Statistic - A B test(가설검증, 개선, 지표분석, 인사이트도출), 예측모델 적용, 전반적인 통계 활용
-
-Data - 문제정의, 데이터 수집, Paper습득 능력
-
-Communication - Why?에 객관적으로 설명하는 능력
-
+### WISELY 
+- 기본적인 통계학, 실험 방법론
+- A/B Test 및 서비스 데이터 분석 방법(LTV, Funnel, Cohort등)에 대한 이해도 
+- SQL을 사용한 Raw Data 핸들링
+- 웹로그 분석을 위한 툴 사용(GA, BigQuery)
+- A/B Test, UT, FGI,Survey 등 가설 검증을 위해 다양한 데이터를 수집하고 분석한 경험이 있으신 분
+- 실질적인 변화를 만들어본 경험
+- Data Studio, Tableau, Redash 등 BI 툴/프로그램 사용 경험이 있으신 분
+- 커머스, 생활 소비재 관련 분석경험
 
 
 
