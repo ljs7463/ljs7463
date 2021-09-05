@@ -21,11 +21,7 @@
  - Notion : 노션은 이메일 주시면 보내드리겠습니다
 
 ---
-## ⛏ Skills
-### Data Analysis
-- Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, MySQL
 
----
 ## 🚴‍♂️ Personal Experience & Projects
 ### 데이터 분석 프로젝트
 - 비디오게임 시장 분석후 다음분기 출시 게임 기획하기
@@ -40,6 +36,12 @@
 - 2020년 "헬프코드"창업 ( 1500만원 투자유치)
 - 2021년 8월 딥러닝 기술을 활용한 드론 보완관련 특허 획득
 - 코드스테이츠 AI부트캠프 4기(2021.05 ~
+
+---
+
+## ⛏ Skills
+### Data Analysis
+- Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, MySQL
 
 
 
