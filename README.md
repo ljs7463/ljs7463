@@ -20,6 +20,9 @@
  - Blog : https://velog.io/@ljs7463
  - Notion : 노션은 이메일 주시면 보내드리겠습니다
 
+### Team Study
+- statistic : 총 네명으로 구성된 통계 스터디원들과 함께 기초통계 스터디를 진행중(2021.09 ~ )
+
 ---
 
 ## 🚴‍♂️ Personal Experience & Projects
