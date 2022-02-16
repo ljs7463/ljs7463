@@ -18,11 +18,13 @@
 - statistic : 총 네명으로 구성된 통계 스터디원들과 함께 기초통계 스터디를 진행중(2021.09 ~ )
 - SQL + Growth : 부트캠프 종료후 SQL과 그로스를 공부하는 스터디가 있어 참여하여 활동중(2021.12.13 ~)
 
+
 ### Contact & Channel 
  - Email : nevergiveup7463@gmail.com 
  - Github : https://github.com/ljs7463
  - Blog : https://velog.io/@ljs7463
  - Linkein : jeongseok lim <https://www.linkedin.com/in/jeongseok-lim-b0a2211b7/>
+
 
 ---
 
@@ -41,6 +43,8 @@
 - 2021년 8월 딥러닝 기술을 활용한 드론 보완관련 특허 획득
 - 2021년 코드스테이츠 AI부트캠프 4기(2021.05 ~ 2021.11)
 - 2022년 1월 프롭테크 스타트업 데이터팀에서 데이터분석가로 활동중
+- 2022년 빅스데이터 직장인 태블로 교육 (2022.02 ~ 2022.03)
+
 ---
 
 ## ⛏ Skills
