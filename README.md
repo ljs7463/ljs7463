@@ -5,7 +5,7 @@
 ```
 
 ## 💁‍♂️ About me
-### Introduction 
+### 👨‍💻 Introduction 
 - 최근 자동화와 시각화의 매력에 빠진 프롭테크 신입 데이터분석가 임정석입니다.
 - 성장하는 사람들과의 모임에 주도적인 성격입니다.(스터디, 네트워킹)
 - 똑똑한 사람들은 많지만 꾸준하고 오래가는 사람은 적습니다. 그 가치를 알기에 매일을 최선을 다하여 1일 1커밋, 블로그 운영을 하고 있습니다.
@@ -26,13 +26,13 @@
 
 
 
-### 스터디
+### 👥 스터디
 - statistic : 총 네명으로 구성된 통계 스터디원들과 함께 기초통계 스터디를 진행중(2021.09 ~ 2022.02)
 - SQL + Growth : 부트캠프 종료후 SQL과 그로스를 공부하는 스터디가 있어 참여하여 활동중(2021.12.13 ~2022.02)
 
 
 
-### Contact & Channel 
+### 💼 Contact & Channel 
  - Email : nevergiveup7463@gmail.com 
  - Github : https://github.com/ljs7463
  - Blog : https://velog.io/@ljs7463
