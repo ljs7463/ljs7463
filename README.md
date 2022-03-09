@@ -37,7 +37,7 @@
  - Github : https://github.com/ljs7463
  - Blog : https://velog.io/@ljs7463
  - Linkein : jeongseok lim <https://www.linkedin.com/in/jeongseok-lim-b0a2211b7/>
-
+ - Tableau Public :  https://public.tableau.com/app/profile/.69605281#!/
 
 ### ⛏ Skills
 
