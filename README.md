@@ -1,4 +1,4 @@
-## 자동화와 시각화에 중독된 데이터분석가  👋
+## 하고싶은것이 넘치는 현직 신입 데이터분석가  👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljs7463&count_bg=%23DD727D&title_bg=%23CD3939&icon=&icon_color=%23CF9494&title=visit&edge_flat=false)](https://hits.seeyoufarm.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link={https://www.facebook.com/profile.php?id=100003668046363})]({https://www.facebook.com/profile.php?id=100003668046363})  [![velog Badge](http://img.shields.io/badge/-Study%20blog-black?style=flat-square&logo=velog.io&link=https://velog.io/@ljs7463)](https://velog.io/@ljs7463) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nevergiveup7463@gmail.com)
 ```
 뛰어난 사람은 정말많다. 하지만, 꾸준히 지속 하는사람은 많지 않다./ 꾸준함이 무기가 될 분석가
@@ -6,7 +6,7 @@
 
 ## 💁‍♂️ About me
 ### 👨‍💻 Introduction 
-- 최근 자동화와 시각화의 매력에 빠진 프롭테크 신입 데이터분석가 임정석입니다.
+- 자동화, 시각화, 공간데이터를 공부하고 있습니다.
 - 성장하는 사람들과의 모임에 주도적인 성격입니다.(스터디, 네트워킹)
 - 똑똑한 사람들은 많지만 꾸준하고 오래가는 사람은 적습니다. 그 가치를 알기에 매일을 최선을 다하여 1일 1커밋, 블로그 운영을 하고 있습니다.
 - 🥋유도와 🏊‍♂️수영 🐈고양이를 좋아해서 이것으로 스트레스를 관리하고 있습니다. 
