@@ -46,7 +46,7 @@
 ### 💼 Contact & Channel 
  - Email : nevergiveup7463@gmail.com 
  - Github : https://github.com/ljs7463
- - Blog : https://velog.io/@ljs7463
+ - Blog : https://velog.io/@ljs7463 / ljs7463.github.io (사이트만 구축)
  - Linkedin : jeongseok lim <https://www.linkedin.com/in/jeongseok-lim-b0a2211b7/>
 
 
