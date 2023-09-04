@@ -6,6 +6,10 @@
 - Analysis Report Process Automation ( Pandas & Excel)
 - Make Dashboard for support business
 
+## Work Experience
+- **AVM** (Automated Valuation Model for predict Real-Estate Price)
+- **Build Data Mart**( for Using Business)
+- **Make Analysis Contents**(For client & coworker )
 ## Interesting
 - Real Estate market analysis
 - Visualization
