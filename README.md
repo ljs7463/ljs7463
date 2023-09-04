@@ -13,7 +13,7 @@
 ## Interesting
 - Real Estate market analysis
 - Visualization
-- Robotic Process Automation
+- Automation
 
 ## Personal Awards and Experiences
 - 한국외국어대학교 인공지능 아이디어 공모전 [우수상, 2020년)
