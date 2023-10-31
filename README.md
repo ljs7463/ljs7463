@@ -1,4 +1,4 @@
-## 회사를 성장시키는 데이터분석가
+## 회사의 작은 CEO 데이터 분석가
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljs7463&count_bg=%23DD727D&title_bg=%23CD3939&icon=&icon_color=%23CF9494&title=visit&edge_flat=false)](https://hits.seeyoufarm.com) [![velog Badge](http://img.shields.io/badge/-Study%20blog-black?style=flat-square&logo=velog.io&link=https://velog.io/@ljs7463)](https://velog.io/@ljs7463) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nevergiveup7463@gmail.com)
 
 ## Main Field of Study
