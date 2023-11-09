@@ -3,7 +3,7 @@
 
 ## Main Field of Study
 - Analysis of Real-Estate Data ( Reasonable Price Predict )
-- Analysis Report Process Automation ( Pandas & Excel)
+- Analysis Report Process Automation(RPA) ( Pandas & Excel)
 - Make Dashboard for support business
 
 ## Work Experience
