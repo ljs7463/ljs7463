@@ -7,32 +7,41 @@
 - Make Dashboard for support business
 
 ## Work Experience
+
 - **AVM** (Automated Valuation Model for predict Real-Estate Price)
 - **Build Data Mart**( for Using Business)
 - **Make Analysis Contents**(For client & coworker )
+
 ## Interesting
+
 - Real Estate market analysis
 - Visualization
 - Automation
 
-## Personal Awards and Experiences
-- 한국외국어대학교 인공지능 아이디어 공모전 [우수상, 2020년)
-- 창업동아리 장학금 [우수상, 한국도로공사 투자유치]
-- 창업(Drone Object Detection Business) [ 김천시 투자유치 성공]
-- 딥러닝 기술을 활용한 드론 보완관련 특허 획득 [2023년8월만료]
-- CodeStates AI BootCamp 4기수료
-- 2022년 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회 팀장(성적 : 상위 15%)
-- 2022년 제주도 도로 교통량 예측 AI경진대회(성적 : 상위5%)
-- 2022년 빅스데이터 직장인 태블로 교육 (2022.02 ~ 2022.03)
+## competition
+
+- 학습 플랫폼 이용자 구독 갱신 예측 해커톤(상위 4%, 2023.11.22 ~ 2023.12.11)
+- 제주도 도로 교통량 예측 AI경진대회(상위5%, 2023.06.16 ~ 2023.06.30)
+- 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI경진대회(상위 15%, 2022.07.25 ~ 2022.09.02)
+- 한국외국어대학교 인공지능 아이디어 공모전(우수상, 2020년)
+
+## Personal Experiences
+
 - 2023년 세일즈 포스 태블로 교육(태블로 신병 훈련소, 2023.06.16 ~ 2023.06.30)
+- 2022년 빅스데이터 직장인 태블로 교육 (2022.02 ~ 2022.03)
+- CodeStates AI BootCamp 4기수료
+- 딥러닝 기술을 활용한 드론 보완관련 특허 획득 [2023년8월만료]
+- 창업(Drone Object Detection Business) [ 김천시 투자유치 성공]
+- 창업동아리 장학금 [우수상, 한국도로공사 투자유치]
 
 ## 💼 Contact & Channel 
 
  - Email : nevergiveup7463@gmail.com 
  - Github : https://github.com/ljs7463
  - Blog : https://velog.io/@ljs7463
+ - Tableau Public : https://public.tableau.com/app/profile/positivethinking/vizzes
  - Linkedin : jeongseok lim <https://www.linkedin.com/in/jeongseok-lim-b0a2211b7/>
-
+ - https://dacon.io/myprofile/425506/home
 
 
 
