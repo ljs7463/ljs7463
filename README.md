@@ -15,6 +15,8 @@
 ## Interesting
 
 - Real Estate market analysis
+- Causal Inference
+- statistics
 - Visualization
 - Automation
 
